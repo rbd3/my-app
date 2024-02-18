@@ -1,0 +1,3 @@
+[submodule "src/snabbdom"]
+	path = src/snabbdom
+	url = git@github.com:snabbdom/snabbdom.git
